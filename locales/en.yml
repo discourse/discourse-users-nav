@@ -1,4 +1,4 @@
 en:
   users_nav:
     display_name: "Users"
-    help_text: "User Leaderboard"
+    title: "User Leaderboard"
