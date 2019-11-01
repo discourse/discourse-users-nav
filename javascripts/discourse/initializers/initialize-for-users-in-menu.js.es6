@@ -7,8 +7,8 @@ export default {
       api.addNavigationBarItem({
         name: "users",
         href: "/u",
-        title: I18n.t(themePrefix("display_name")),
-        displayName: I18n.t(themePrefix("title"))
+        title: I18n.t(themePrefix("users_nav.title")),
+        displayName: I18n.t(themePrefix("users_nav.display_name"))
       });
     });
   }
