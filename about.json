@@ -1,6 +1,6 @@
 {
   "name": "Users Top Nav",
-  "about_url": "https://meta.discourse.org/t/full-nav-on-users-page/63681?u=sam",
-  "license_url": "https://github.com/SamSaffron/discourse-users-nav/blob/master/LICENSE.txt",
-  "component": true
+  "component": true,
+  "about_url": "https://meta.discourse.org/t/full-nav-on-users-page/63681",
+  "license_url": "https://github.com/discourse/discourse-users-nav/blob/main/LICENSE"
 }
