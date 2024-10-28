@@ -1,5 +1,8 @@
 {
   "private": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
   "devDependencies": {
     "@discourse/lint-configs": "1.4.2",
     "ember-template-lint": "6.0.0",
@@ -9,8 +12,6 @@
   },
   "engines": {
     "node": ">= 18",
-    "npm": "please-use-pnpm",
-    "yarn": "please-use-pnpm",
     "pnpm": ">= 9"
   }
 }
